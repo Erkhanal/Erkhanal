@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="200">
 </p>
-<h3 align="center"> I am a qualified engineer with a distinct knowledge of engineering, having a strong passion for programming and AI. Over 5 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills.</h3>
+<h3 align="center"> Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, and programming languages such as Python.</h3>
 
 - 🔭 I’m currently working at **Tokyo**
 

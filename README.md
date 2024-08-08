@@ -16,7 +16,7 @@
 
 - 📫 How to reach me  [Website](https://erkhanal.github.io/portfolio/)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am Curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

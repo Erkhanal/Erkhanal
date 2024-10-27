@@ -85,6 +85,18 @@
   <a href="https://lamaindex.ai/" target="_blank" rel="noreferrer"> 
     <img src="https://lamaindex.ai/assets/img/logo.svg" alt="lamaindex" width="40" height="40"/> 
   </a> 
+    <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.nltk.org/images/logo.png" alt="nltk" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.statsmodels.org/stable/_static/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/> 
+  </a> 
+  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer"> 
+    <img src="https://python.langchain.com/en/latest/_static/langchain.png" alt="langchain" width="40" height="40"/> 
+  </a> 
+  <a href="https://lamaindex.ai/" target="_blank" rel="noreferrer"> 
+    <img src="https://lamaindex.ai/assets/img/logo.svg" alt="lamaindex" width="40" height="40"/> 
+  </a> 
 </p>
 
 

@@ -55,48 +55,19 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_logo.png" alt="nltk" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
-  </a> 
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.statsmodels.org/stable/_static/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/> 
-  </a> 
+  </a>  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="open ai" width="40" height="40"/> 
   </a> 
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/> 
   </a> 
-  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer"> 
-    <img src="https://python.langchain.com/en/latest/_static/langchain.png" alt="langchain" width="40" height="40"/> 
-  </a> 
-  <a href="https://lamaindex.ai/" target="_blank" rel="noreferrer"> 
-    <img src="https://lamaindex.ai/assets/img/logo.svg" alt="lamaindex" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.nltk.org/images/logo.png" alt="nltk" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.statsmodels.org/stable/_static/statsmodels-logo-v2.svg" alt="statsmodels" width="40" height="40"/> 
-  </a> 
-  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noreferrer"> 
-    <img src="https://python.langchain.com/en/latest/_static/langchain.png" alt="langchain" width="40" height="40"/> 
-  </a> 
-  <a href="https://lamaindex.ai/" target="_blank" rel="noreferrer"> 
-    <img src="https://lamaindex.ai/assets/img/logo.svg" alt="lamaindex" width="40" height="40"/> 
-  </a> 
+
 </p>
 
 

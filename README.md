@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shishir Khanal</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="200">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV6dTZkMWFvZGZ2aDZkOGRnbmFwd2dqanN0c2c0cTh2aHhmeHJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="250">
 </p>
 <h3 align="center"> Qualified engineer with a distinct knowledge of engineering, having a strong passion for cutting edge technology and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, Generative AI, LLM, programming languages, MS office, CAD(3D&2D), and Mechanical Engineeing.</h3>
 

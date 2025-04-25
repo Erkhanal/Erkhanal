@@ -4,7 +4,7 @@
 </p>
 <h3 align="center"> Qualified engineer with a distinct knowledge of engineering, having a strong passion for cutting edge technology and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, Generative AI, LLM, programming languages, MS office, CAD(3D&2D), and Mechanical Engineeing.</h3>
 
-- 🔭 I’m currently working at **Tokyo**
+- 🔭 I’m currently working at **Tokyo, Japan**
 
 - 🌱 I’m currently learning **ML/AI**
 

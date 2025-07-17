@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am Curious**
 
-<h3 align="left">My OpenBadge:</h3>
+<h3 align="left">My OpenBadges:</h3>
 
 [![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09)
 [![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09)

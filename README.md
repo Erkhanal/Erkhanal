@@ -18,6 +18,13 @@
 
 - ⚡ Fun fact **I think I am Curious**
 
+<h3 align="left">My OpenBadge:</h3>
+
+[![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09)
+[![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09)
+[![Di-Lite-AI Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/emtEZng1R1lwZlVjM0E0U0FBU0Iwdz09)
+[![Generative AI Passport Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gugatest.png)](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/V3UvZmZvaVlEaGdia01mam92VGlQUT09)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://jp.linkedin.com/in/er-shishir-khanal-26b125139" height="30" width="40" /></a>

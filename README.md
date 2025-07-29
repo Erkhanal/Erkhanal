@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV6dTZkMWFvZGZ2aDZkOGRnbmFwd2dqanN0c2c0cTh2aHhmeHJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="250">
 </p>
-<h3 align="center"> Qualified engineer with a distinct knowledge of engineering, having a strong passion for cutting edge technology and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, Generative AI, LLM, programming languages, MS office, CAD(3D&2D), and Mechanical Engineeing.</h3>
+<h3 align="center"> An interdisciplinary engineer with a solid foundation in engineering, artificial intelligence (AI), and data science, backed by a diverse academic background across the USA, UK, India, and Nepal. Experienced in engineering, research, AI-driven projects, financial modeling, mechanical design, and system development, coupled with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, generative AI, large language models (LLMs), programming languages, MS Office, CAD (3D & 2D), and mechanical engineering.</h3>
 
 - 🔭 I’m currently working at **Tokyo, Japan**
 

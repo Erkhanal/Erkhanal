@@ -18,6 +18,16 @@
 
 - ⚡ Fun fact **I think I am Curious**
 
+<h3 align="left">🎓 Education:</h3>
+
+-  Master’s Degree in Engineering, **USA**
+  
+-  Master’s Degree in Artificial Intelligence (AI), **UK**
+  
+-  Executive Post Graduate in Machine Learning & Artificial Intelligence, **India**
+  
+-  Bachelor’s Degree in Mechanical Engineering, **Nepal**
+
 <h3 align="left">OpenBadges:</h3>
 
 [![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09)

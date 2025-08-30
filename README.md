@@ -30,17 +30,17 @@
 
 <h3 align="left">🚀 Key Highlights :</h3>
 
-1. 🎓 4 Degrees from 4 Different Countries, Prestigious Universities, in Multiple Fields of Engineering (Certified ✅)  
-2. 🛠️ Registered Engineer (Certified ✅)  
-3. 💼 8+ Years of Professional Experience, including 6+ Years in International Environment  
-4. 🤖 AI Qualification Certificate (Japan Deep Learning Association, Certified ✅)  
-5. 📊 DX Qualification Certificate (Digital Literacy Council, Japan, Certified ✅)  
-6. 🌍 AI Literacy Check International Competition, Japan: Ranked Top 1% (Certified ✅)  
-7. 🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified ✅)  
-8. 🔑 Generative AI Passport Exam, Japan (Certified ✅)  
-9. 🏗️ Mechanical Design (SolidWorks Certified ✅)  
-10. 🌐 English: Working Proficiency Plus (TOEIC Certified ✅)  
-11. 🗾 Japanese: Business Level Proficiency (JLPT-N2 Certified ✅)  
+-  🎓 4 Degrees from 4 Different Countries, Prestigious Universities, in Multiple Fields of Engineering (Certified ✅)  
+-  🛠️ Registered Engineer (Certified ✅)  
+-  💼 8+ Years of Professional Experience, including 6+ Years in International Environment  
+-  🤖 AI Qualification Certificate (Japan Deep Learning Association, Certified ✅)  
+-  📊 DX Qualification Certificate (Digital Literacy Council, Japan, Certified ✅)  
+-  🌍 AI Literacy Check International Competition, Japan: Ranked Top 1% (Certified ✅)  
+-  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified ✅)  
+-  🔑 Generative AI Passport Exam, Japan (Certified ✅)  
+-  🏗️ Mechanical Design (SolidWorks Certified ✅)  
+-  🌐 English: Working Proficiency Plus (TOEIC Certified ✅)  
+-  🗾 Japanese: Business Level Proficiency (JLPT-N2 Certified ✅)  
 
 <h3 align="left">OpenBadges:</h3>
 

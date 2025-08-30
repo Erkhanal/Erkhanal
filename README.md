@@ -28,6 +28,20 @@
   
 -  Bachelor’s Degree in Mechanical Engineering, **Nepal**
 
+<h3 align="left">🚀 Key Highlights :</h3>
+
+1. 🎓 4 Degrees from 4 Different Countries, Prestigious Universities, in Multiple Fields of Engineering (Certified ✅)  
+2. 🛠️ Registered Engineer (Certified ✅)  
+3. 💼 8+ Years of Professional Experience, including 6+ Years in International Environment  
+4. 🤖 AI Qualification Certificate (Japan Deep Learning Association, Certified ✅)  
+5. 📊 DX Qualification Certificate (Digital Literacy Council, Japan, Certified ✅)  
+6. 🌍 AI Literacy Check International Competition, Japan: Ranked Top 1% (Certified ✅)  
+7. 🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified ✅)  
+8. 🔑 Generative AI Passport Exam, Japan (Certified ✅)  
+9. 🏗️ Mechanical Design (SolidWorks Certified ✅)  
+10. 🌐 English: Working Proficiency Plus (TOEIC Certified ✅)  
+11. 🗾 Japanese: Business Level Proficiency (JLPT-N2 Certified ✅)  
+
 <h3 align="left">OpenBadges:</h3>
 
 [![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09)

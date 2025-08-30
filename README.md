@@ -4,30 +4,6 @@
 </p>
 <h3 align="center"> An interdisciplinary engineer with a solid foundation in engineering, artificial intelligence (AI), and data science, backed by a diverse academic background across the USA, UK, India, and Nepal. Experienced in engineering, research, AI-driven projects, financial modeling, mechanical design, and system development, coupled with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, generative AI, large language models (LLMs), programming languages, MS Office, CAD (3D & 2D), and mechanical engineering.</h3>
 
-- 🔭 I’m currently working at **Tokyo, Japan**
-
-- 🌱 I’m currently learning **ML/AI**
-
-- 👯 I’m looking to collaborate on **ML/AI projects**
-
-- 👨‍💻 All of my projects are available at [Website](https://erkhanal.github.io/portfolio/)
-
-- 💬 Ask me about **Anything Professionally Meaningful**
-
-- 📫 How to reach me  [Website](https://erkhanal.github.io/portfolio/)
-
-- ⚡ Fun fact **I think I am Curious**
-
-<h3 align="left">🎓 Education:</h3>
-
--  Master’s Degree in Engineering, **USA**
-  
--  Master’s Degree in Artificial Intelligence (AI), **UK**
-  
--  Executive Post Graduate in Machine Learning & Artificial Intelligence, **India**
-  
--  Bachelor’s Degree in Mechanical Engineering, **Nepal**
-
 <h3 align="left">🚀 Key Highlights :</h3>
 
 -  🎓 4 Degrees from 4 Different Countries, Prestigious Universities, in Multiple Fields of Engineering (Certified ✅)  
@@ -41,6 +17,33 @@
 -  🏗️ Mechanical Design (SolidWorks Certified ✅)  
 -  🌐 English: Working Proficiency Plus (TOEIC Certified ✅)  
 -  🗾 Japanese: Business Level Proficiency (JLPT-N2 Certified ✅)  
+
+<h3 align="left">🎓 Education:</h3>
+
+-  Master’s Degree in Engineering, **USA**
+  
+-  Master’s Degree in Artificial Intelligence (AI), **UK**
+  
+-  Executive Post Graduate in Machine Learning & Artificial Intelligence, **India**
+  
+-  Bachelor’s Degree in Mechanical Engineering, **Nepal**
+
+
+<h3 align="left">🙋‍♂️ A Little About Myself :</h3>
+
+- 🔭 I’m currently working in **Tokyo, Japan**
+    
+- 🌱 I’m currently learning **ML/AI**
+
+- 👯 I’m looking to collaborate on **ML/AI projects**
+  
+- 👨‍💻 All of my projects are available at [Website](https://erkhanal.github.io/portfolio/)
+  
+- 💬 Ask me about **Anything Professionally Meaningful**
+  
+- 📫 How to reach me: [Website](https://erkhanal.github.io/portfolio/)
+  
+- ⚡ Fun fact **I think I am Curious**  
 
 <h3 align="left">OpenBadges:</h3>
 

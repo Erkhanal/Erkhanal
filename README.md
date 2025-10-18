@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Shishir Khanal</h1>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV6dTZkMWFvZGZ2aDZkOGRnbmFwd2dqanN0c2c0cTh2aHhmeHJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="250">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF1ZXV0OXljNHUyaDFyMWdmdmJ3cmJlM3V2cjcwa3IxMnpoanBoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif" width="250">
 </p>
 <h3 align="center"> An interdisciplinary engineer with a solid foundation in engineering, artificial intelligence (AI), and data science, backed by a diverse academic background across the USA, UK, India, and Nepal. Experienced in engineering, research, AI-driven projects, financial modeling, mechanical design, and system development, coupled with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, generative AI, large language models (LLMs), programming languages, MS Office, CAD (3D & 2D), and mechanical engineering.</h3>
 
 <h3 align="left">🚀 Key Highlights :</h3>
 
--  🎓 4 Degrees from 4 Different Countries, Prestigious Universities, in Multiple Fields of Engineering (Certified ✅)  
+-  🎓 4 Prestigious Degrees from 4 Different Countries, in Multiple Fields of Engineering, from Top-Tier Universities Including the USA and UK (Certified ✅)  
 -  🛠️ Registered Engineer (Certified ✅)  
 -  💼 8+ Years of Professional Experience, including 6+ Years in International Environment  
--  🤖 AI Qualification Certificate (Japan Deep Learning Association, Certified ✅)  
--  📊 DX Qualification Certificate (Digital Literacy Council, Japan, Certified ✅)  
--  🌍 AI Literacy Check International Competition, Japan: Ranked Top 1% (Certified ✅)  
--  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified ✅)  
--  🔑 Generative AI Passport Exam, Japan (Certified ✅)  
--  🏗️ Mechanical Design (SolidWorks Certified ✅)  
--  🌐 English: Working Proficiency Plus (TOEIC Certified ✅)  
--  🗾 Japanese: Business Level Proficiency (JLPT-N2 Certified ✅)  
+-  🤖 AI Engineer Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
+-  📊 DX Qualification Certificate (Digital Literacy Council, Di-Lite, Japan, Certified by Exam ✅)  
+-  🌍 Generative AI Literacy Assessment Competition, Japan: Ranked Top 1% (Certified by Exam ✅)  
+-  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
+-  🔑 Generative AI Passport Exam (Japan, Certified by Exam ✅)  
+-  🏗️ Professional Mechanical Design (SolidWorks, Certified by Exam ✅)  
+-  🌐 English: Business Level Proficiency (TOEIC, Certified by Exam ✅)  
+-  🗾 Japanese: Business Level Proficiency (JLPT-N2, Certified by Exam ✅)  
 
 <h3 align="left">🎓 Education:</h3>
 

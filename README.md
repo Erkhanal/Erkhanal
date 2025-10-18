@@ -31,19 +31,19 @@
 
 <h3 align="left">🙋‍♂️ A Little About Myself :</h3>
 
-- 🔭 I’m currently working in **Tokyo, Japan**
-    
-- 🌱 I’m currently learning **ML/AI**
+- 🔭 I’m currently working in **Tokyo, Japan**, focused on technology and innovation.
 
-- 👯 I’m looking to collaborate on **ML/AI projects**
-  
-- 👨‍💻 All of my projects are available at [Website](https://erkhanal.github.io/portfolio/)
-  
-- 💬 Ask me about **Anything Professionally Meaningful**
-  
-- 📫 How to reach me: [Website](https://erkhanal.github.io/portfolio/)
-  
-- ⚡ Fun fact **I think I am Curious**  
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**.
+
+- 👯 I’m looking to collaborate on **impactful ML/AI research and open-source projects**.
+
+- 👨‍💻 All of my projects are available on my [website](https://erkhanal.github.io/portfolio/).
+
+- 💬 Feel free to reach out for **meaningful discussions in tech, research, or ideas worth building**.
+
+- 📫 How to reach me: [website](https://erkhanal.github.io/portfolio/).
+
+- ⚡ Fun fact: **I think I’m curious — I believe curiosity is the first step to discovery.** 
 
 <h3 align="left">OpenBadges:</h3>
 

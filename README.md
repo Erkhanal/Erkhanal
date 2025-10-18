@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shishir Khanal</h1>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF1ZXV0OXljNHUyaDFyMWdmdmJ3cmJlM3V2cjcwa3IxMnpoanBoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qzirb6B4KXOHbJpd3/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejZsN2p6cmp0ODBvbzY1eWs4bWF2dzM3YnBxeWdpMTEyOHR5aTQ2YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xFYs2LARiXps9uZFhq/giphy.gif" width="250">
 </p>
 <h3 align="center"> An interdisciplinary engineer with a solid foundation in engineering, artificial intelligence (AI), and data science, backed by a diverse academic background across the USA, UK, India, and Nepal. Experienced in engineering, research, AI-driven projects, financial modeling, mechanical design, and system development, coupled with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, generative AI, large language models (LLMs), programming languages, MS Office, CAD (3D & 2D), and mechanical engineering.</h3>
 

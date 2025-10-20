@@ -43,7 +43,7 @@
 
 - 📫 Reach me at: [website](https://erkhanal.github.io/portfolio/).
 
-- ⚡ Fun fact: **I think I’m curious — I believe curiosity is the first step to discovery.** 
+- ⚡ Fun fact: **I think I’m curious - I believe curiosity is the first step to discovery.** 
 
 <h3 align="left">OpenBadges:</h3>
 

@@ -1,4 +1,3 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Erkhanal)
 <h1 align="center">Hi 👋, I'm Shishir Khanal</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejZsN2p6cmp0ODBvbzY1eWs4bWF2dzM3YnBxeWdpMTEyOHR5aTQ2YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xFYs2LARiXps9uZFhq/giphy.gif" width="250">

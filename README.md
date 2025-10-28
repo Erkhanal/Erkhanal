@@ -6,10 +6,10 @@
 
 <h3 align="left">🚀 Key Highlights :</h3>
 
--  🎓 4 Prestigious Degrees from 4 Different Countries, in Multiple Fields of Engineering, from Top-Tier Universities Including the USA and UK (Certified ✅)  
+-  🎓 4 Prestigious Degrees from 4 Different Countries, in Multiple Fields of Engineering, from Top-Tier Universities Including the USA and UK  
 -  🛠️ Registered Engineer (Certified ✅)  
 -  💼 8+ Years of Professional Experience, including 6+ Years in International Environment  
--  🤖 AI Engineer Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
+-  🤖 AI Engineer Qualification Certificate (Japan Deep Learning Association, Certified by Exam 94% ✅)  
 -  📊 DX Qualification Certificate (Digital Literacy Council, Di-Lite, Japan, Certified by Exam ✅)  
 -  🌍 Generative AI Literacy Assessment Competition, Japan: Ranked Top 1% (Certified by Exam ✅)  
 -  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  

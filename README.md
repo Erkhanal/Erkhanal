@@ -13,7 +13,7 @@
 -  📊 DX Qualification Certificate (Digital Literacy Council, Di-Lite, Japan, Certified by Exam ✅)  
 -  🌍 Generative AI Literacy Assessment Competition, Japan: Ranked Top 1% (Certified by Exam ✅)  
 -  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
--  🔑 Generative AI Passport Exam (Japan, Certified by Exam ✅)  
+-  🔑 Generative AI Passport Exam (Japan, Certified by Exam 92% ✅)  
 -  🏗️ Professional Mechanical Design (SolidWorks, Certified by Exam ✅)  
 -  🌐 English: Business Level Proficiency (TOEIC, Certified by Exam ✅)  
 -  🗾 Japanese: Business Level Proficiency (JLPT-N2, Certified by Exam ✅)  

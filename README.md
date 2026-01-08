@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ejZsN2p6cmp0ODBvbzY1eWs4bWF2dzM3YnBxeWdpMTEyOHR5aTQ2YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xFYs2LARiXps9uZFhq/giphy.gif" width="250">
 </p>
-<h3 align="center"> An interdisciplinary engineer with a solid foundation in engineering, artificial intelligence (AI), and data science, backed by a diverse academic background across the USA, UK, India, and Nepal. Experienced in engineering, research, AI-driven projects, financial modeling, mechanical design, and system development, coupled with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, generative AI, large language models (LLMs), programming languages, MS Office, CAD (3D & 2D), and mechanical engineering.</h3>
+<h3 align="center"> An interdisciplinary engineer with a solid foundation in engineering, artificial intelligence (AI), and data science, backed by a diverse academic background including the USA and UK. Experienced in engineering, research, AI-driven projects, financial modeling, mechanical design, and system development, coupled with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in AI/ML, deep learning, NLP, generative AI, large language models (LLMs), programming languages, MS Office, CAD (3D & 2D), and mechanical engineering.</h3>
 
 <h3 align="left">🚀 Key Highlights :</h3>
 

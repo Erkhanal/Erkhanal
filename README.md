@@ -8,12 +8,12 @@
 
 -  🎓 4 Prestigious Degrees from 4 Different Countries, in Multiple Fields of Engineering, from Top-Tier Universities Including the USA and UK  
 -  🛠️ Registered Engineer (Certified ✅)  
--  💼 8+ Years of Professional Experience, including 6+ Years in International Environment  
+-  💼 8+ Years of Professional Experience as an Engineer, including 6+ Years in International Environment  
 -  🤖 AI Engineer Qualification Certificate (Japan Deep Learning Association, Certified by Exam 94% ✅)  
 -  📊 DX Qualification Certificate (Digital Literacy Council, Di-Lite, Japan, Certified by Exam ✅)  
--  🌍 Generative AI Literacy Assessment Competition, Japan: Ranked Top 1% (Certified by Exam ✅)  
+-  🌍 Generative AI Literacy Assessment Competition By GUGA, Japan: Top Ranked (Certified by Exam ✅) 
 -  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
--  🔑 Generative AI Passport Exam (Japan, Certified by Exam 92% ✅)  
+-  🔑 Generative AI Passport Exam (GuGA, Japan, Certified by Exam 92% ✅)  
 -  🏗️ Professional Mechanical Design (SolidWorks, Certified by Exam ✅)  
 -  🌐 English: Business Level Proficiency (TOEIC, Certified by Exam ✅)  
 -  🗾 Japanese: Business Level Proficiency (JLPT-N2, Certified by Exam ✅)  
@@ -24,7 +24,7 @@
   
 -  Master’s Degree in Artificial Intelligence (AI), **UK**
   
--  Executive Post Graduate in Machine Learning & Artificial Intelligence, **India**
+-  Executive Post Graduate in ML/AI (Generative AI Specialization)
   
 -  Bachelor’s Degree in Mechanical Engineering, **Nepal**
 

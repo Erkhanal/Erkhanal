@@ -24,7 +24,7 @@
   
 -  Master’s Degree in Artificial Intelligence (AI), **UK**
   
--  Executive Post Graduate in ML/AI (Generative AI Specialization)
+-  Executive Post Graduate in ML/AI, (Generative AI Specialization)
   
 -  Bachelor’s Degree in Mechanical Engineering, **Nepal**
 

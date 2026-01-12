@@ -24,7 +24,7 @@
   
 -  Master’s Degree in Artificial Intelligence (AI), **UK**
   
--  Executive Post Graduate Degree in ML/AI, (Generative AI Specialization)
+-  Executive Postgraduate Degree with a Specialization in Generative AI
   
 -  Bachelor’s Degree in Mechanical Engineering, **Nepal**
 
@@ -41,7 +41,7 @@
 
 - 💬 Feel free to reach out for **meaningful discussions in tech, research, or ideas worth building**.
 <!--
-- 📫 Reach me at: [website](https://erkhanal.github.io/portfolio/).
+- 📫 Reach me at: [website](https://er.khanal.github.io/portfolio/).
 <!--
 - ⚡ Fun fact: **I think I’m curious - I believe curiosity is the first step to discovery.** 
 

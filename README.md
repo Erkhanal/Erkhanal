@@ -41,7 +41,8 @@
 
 - 💬 Feel free to reach out for **meaningful discussions in tech, research, or ideas worth building**.
 
-- 📫 Reach me at: [website](https://erkhanal.github.io/portfolio/).
+- 📫 Reach me at: [Website](https://erkhanal.github.io/portfolio/).
+  
 - ⚡ Fun fact: **I think I’m curious - I believe curiosity is the first step to discovery.** 
 
 <h3 align="left">OpenBadges:</h3>

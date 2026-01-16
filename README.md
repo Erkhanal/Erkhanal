@@ -15,7 +15,7 @@
 -  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
 -  🔑 Generative AI Passport Exam (GUGA, Japan, Certified by Exam 92% ✅)  
 -  🏗️ Professional Mechanical Design (SolidWorks, Certified by Exam ✅)  
--  🌐 English: Business Level Proficiency (TOEIC, Certified by Exam ✅)  
+-  🌐 English: Business Level Proficiency (TOEIC, ETS, Certified by Exam ✅)  
 -  🗾 Japanese: Business Level Proficiency (JLPT-N2, Certified by Exam ✅)  
 
 <h3 align="left">🎓 Education:</h3>

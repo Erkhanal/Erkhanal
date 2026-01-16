@@ -26,8 +26,7 @@
   
 -  Executive Postgraduate Degree with a Specialization in Generative AI
   
--  Bachelor’s Degree in Mechanical Engineering, **Nepal**
-
+-  Bachelor’s Degree in Mechanical Engineering
 
 <h3 align="left">🙋‍♂️ A Little About Myself :</h3>
 

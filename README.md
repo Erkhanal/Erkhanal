@@ -14,6 +14,8 @@
 -  🌍 Generative AI Literacy Assessment Competition By GUGA, Japan: Top Ranked out of 2,221 (Certified by Exam ✅) 
 -  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
 -  🔑 Generative AI Passport Exam (GUGA, Japan, Certified by Exam 92% ✅)
+-  🏅 DX Professional Level Certified (DSS-Based, METI & IPA Framework, DX Examination, Japan, Certified by Exam (Score 975/1,000) ✅)
+-  🏆 Advanced Level Data Science Mathematics Strategist Certified with Triple Star ⭐⭐⭐ (The Mathematics Certification Institute of Japan, Certified by Exam ✅ 95%)
 -  👑 Highest Achievement in AI Skills Certifications with Full Crowns (Japan AI Skill Certification Association, Certified by Exam ✅)  
 -  🏗️ Professional Mechanical Design (SolidWorks, Certified by Exam ✅)  
 -  🌐 English: Business Level Proficiency (TOEIC, ETS, Certified by Exam ✅)  

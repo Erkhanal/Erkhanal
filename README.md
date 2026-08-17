@@ -53,6 +53,7 @@
 [![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09)
 [![Di-Lite-AI Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/emtEZng1R1lwZlVjM0E0U0FBU0Iwdz09)
 [![Generative AI Passport Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gugatest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UGw2ZUx3YndOUDBzMDJVWTZ2NVhzUT09)
+[![Advanced Level Data Science Mathematics Strategist Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Math.png)](https://walletapi.openbadge.net/api/public-credentials/share/acb0881c-1156-86f9-8158-01a00e8b67be)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

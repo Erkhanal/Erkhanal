@@ -49,12 +49,24 @@
 
 <h3 align="left">Verified Digital Credential:</h3>
 
-[![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09)
-[![Japan Deep Learning Association Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09)
-[![Di-Lite-AI Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/emtEZng1R1lwZlVjM0E0U0FBU0Iwdz09)
-[![Generative AI Passport Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gugatest.png)](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UGw2ZUx3YndOUDBzMDJVWTZ2NVhzUT09)
-[![Advanced Level Data Science Mathematics Strategist Badge](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Math.png)](https://walletapi.openbadge.net/api/public-credentials/share/acb0881c-1156-86f9-8158-01a00e8b67be)
-[![DX Next Exam](https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/dxnex.png)](https://openbadgefactory.com/obv3/credentials/e5f1ae6d1d354d8d4f971960e543d21cb6674cd2.html)
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png" width="200" height="200" alt="Japan Deep Learning Association Badge" title="Click for more details">
+</a>
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png" width="200" height="200" alt="Japan Deep Learning Association Badge" title="Click for more details">
+</a>
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/emtEZng1R1lwZlVjM0E0U0FBU0Iwdz09">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png" width="200" height="200" alt="Di-Lite-AI Badge" title="Click for more details">
+</a>
+<a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UGw2ZUx3YndOUDBzMDJVWTZ2NVhzUT09">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gugatest.png" width="200" height="200" alt="Generative AI Passport Badge" title="Click for more details">
+</a>
+<a href="https://walletapi.openbadge.net/api/public-credentials/share/acb0881c-1156-86f9-8158-01a00e8b67be">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Math.png" width="200" height="200" alt="Advanced Level Data Science Mathematics Strategist Badge" title="Click for more details">
+</a>
+<a href="https://openbadgefactory.com/obv3/credentials/e5f1ae6d1d354d8d4f971960e543d21cb6674cd2.html">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/dxnex.png" width="200" height="200" alt="DX Next Exam" title="Click for more details">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

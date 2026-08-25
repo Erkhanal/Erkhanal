@@ -56,11 +56,11 @@
 <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png" width="200" height="200" alt="Japan Deep Learning Association Badge" title="Click for more details">
 </a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1CCB4F493DE649303EE1D0B8DBFD40CDD860F289C1CDBD6427B02BFDC2C47BF0">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/OCI26FNDCFA.jpg" width="200" height="200" alt="Oracle Cloud Infrastructure Certified Architect Associate Badge" title="Click for more details">
+</a>
 <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/dlpCN1Y5NmFDK0VpdE55bG9wVGJFQT09">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gentest.png" width="200" height="200" alt="Japan Deep Learning Association Badge" title="Click for more details">
-</a>
-<a href="https://brm-certification.oracle.com/apex/f?p=1111:6:115534715561393:::::#collapse2">
-  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/OCI26FNDCFA.jpg" width="200" height="200" alt="Oracle Cloud Infrastructure Certified Architect Associate Badge" title="Click for more details">
 </a>
 <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/emtEZng1R1lwZlVjM0E0U0FBU0Iwdz09">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/DXtest.png" width="200" height="200" alt="Di-Lite-AI Badge" title="Click for more details">
@@ -68,21 +68,24 @@
 <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/UGw2ZUx3YndOUDBzMDJVWTZ2NVhzUT09">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gugatest.png" width="200" height="200" alt="Generative AI Passport Badge" title="Click for more details">
 </a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=432F699DE2769F5C7A88FAD4724725210734A7702EDCF39FB250CE6D6C83D17B">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/AAI26OFA.jpg" width="200" height="200" alt="Oracle Agentic AI Certified Foundations Associate Badge" title="Click for more details">
+</a>
 <a href="https://walletapi.openbadge.net/api/public-credentials/share/acb0881c-1156-86f9-8158-01a00e8b67be">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Math.png" width="200" height="200" alt="Advanced Level Data Science Mathematics Strategist Badge" title="Click for more details">
 </a>
-<a href="https://openbadgefactory.com/obv3/credentials/e5f1ae6d1d354d8d4f971960e543d21cb6674cd2.html">
-  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/dxnex.png" width="200" height="200" alt="DX Next Exam" title="Click for more details">
-</a>
-<a href="https://brm-certification.oracle.com/apex/f?p=1111:6:115534715561393:::::#collapse1">
-  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/AAI26OFA.jpg" width="200" height="200" alt="Oracle Agentic AI Certified Foundations Associate Badge" title="Click for more details">
-</a>
-<a href="https://brm-certification.oracle.com/apex/f?p=1111:6:115534715561393:::::#collapse3">
+
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A2734BE1D54ED5E7C10B6EDE7362EBD4E31EBC6C2DD3CCE14872FA4E9649829E">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/OCI26CAA.jpg" width="200" height="200" alt="Oracle Cloud Infrastructure Certified Foundations Associate Badge" title="Click for more details">
 </a>
 
-<a href="https://brm-certification.oracle.com/apex/f?p=1111:6:115534715561393:::::#collapse4">
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9D1301474CDB66F92F754305DF0D6A4E0D7CB6D7E45A9B89503122B0436DB74E">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/OCI26DCFA%20(1).jpg" width="200" height="200" alt="Oracle AI Database Certified Foundations Associate Badge" title="Click for more details">
+</a>
+
+<a href="https://openbadgefactory.com/obv3/credentials/e5f1ae6d1d354d8d4f971960e543d21cb6674cd2.html">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/dxnex.png" width="200" height="200" alt="DX Next Exam" title="Click for more details">
 </a>
 
 <h3 align="left">Connect with me:</h3>

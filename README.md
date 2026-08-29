@@ -84,6 +84,18 @@
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/OCI26FNDCFA.jpg" width="200" height="200" alt="Oracle AI Database Certified Foundations Associate Badge" title="Click for more details">
 </a>
 
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6AC617DE028A90612639D4F25E34A7142FE04DCE8B59227FAD9D482947BA0340">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/CIA.png" width="200" height="200" alt="Oracle Cloud Infrastructure Certified AI Foundations Associate Badge" title="Click for more details">
+</a>
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2C65399DA456F01B90A7A33016689E4BF0681EE7461781E4D7DC903B88AE8013">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/fusion.png" width="200" height="200" alt="Oracle Fusion AI Agent Studio Certified Foundations Associate Badge" title="Click for more details">
+</a>
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=112C64FED4678B0EA2C2BA382CA1E4F086BF1848AF9A6DFC70C5D600E8E9E116">
+  <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/datacenter.png" width="200" height="200" alt="Oracle Data Center Operations Certified Foundations Associate Badge" title="Click for more details">
+</a>
+
 <a href="https://openbadgefactory.com/obv3/credentials/e5f1ae6d1d354d8d4f971960e543d21cb6674cd2.html">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/dxnex.png" width="200" height="200" alt="DX Next Exam" title="Click for more details">
 </a>

@@ -75,7 +75,7 @@
 
 - Microsoft Leadership and Innovation Professional Certificate, **Microsoft**
 
-<h3 align="left">Verified Digital Credential:</h3>
+<h3 align="left">✅ Verified Digital Credential:</h3>
 
 <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/Gtest.png" width="200" height="200" alt="Japan Deep Learning Association Badge" title="Click for more details">

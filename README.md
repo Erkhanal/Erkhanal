@@ -41,6 +41,40 @@
   
 -  Bachelor’s Degree in Mechanical Engineering
 
+<h3 align="left">🎖️ Professional Certifications :</h3>
+
+- Microsoft AI & ML Engineering Professional Certificate, **Microsoft**
+
+- AWS Cloud Solutions Architect Professional Certificate, **Amazon Web Services**
+  
+- Google Data Analytics Professional Certificate, **Google**
+  
+- Google Project Management Professional Certificate, **Google**
+  
+- IBM AI Developer Professional Certificate, **IBM**
+  
+- IBM Gen AI Engineering Professional Certificate, **IBM**
+  
+- AWS Generative AI Developer Advanced Professional Certificate, **Amazon Web Services**
+  
+- Google AI Professional Certificate, **Google**
+  
+- IBM RAG and Agentic AI Professional Certificate, **IBM**
+  
+- Generative AI Leader Professional Certificate, **Google Cloud**
+  
+- Google AI Essentials Specialization, **Google**
+
+- AI Infrastructure: Deployment, Networking, and Storage Specialization, **Google Cloud**
+  
+- Deep Learning Specialization, **DeepLearning.AI**
+  
+- Microsoft AI Product Manager Professional Certificate, **Microsoft**
+  
+- Research Specialization, **Queen Mary University of London**
+
+- Microsoft Leadership and Innovation Professional Certificate, **Microsoft**
+
 <h3 align="left">🙋‍♂️ A Little About Myself :</h3>
 
 - 🔭 I’m currently working in **Tokyo, Japan**, focused on technology and innovation.

@@ -7,26 +7,31 @@
 <h3 align="left">🚀 Key Highlights :</h3>
 
 -  🎓 4 Prestigious Degrees from 4 Different Countries, in Multiple Fields of Engineering, from Top-Tier Universities Including the USA and UK  
--  🛠️ Registered Engineer (Certified ✅)  
--  💼 8+ Years of Professional Experience as an Engineer, including 6+ Years in International Environment  
+-  🛠️ Registered Engineer  
+-  💼 8+ Years of Professional Experience as an Engineer, including 6+ Years in International Environment
+-  🏅 15+ Professional Certificates across Engineering, AI, ML, Cloud, and Data from world-leading providers including Microsoft, AWS, Google, IBM, DeepLearning.AI, and more.  
 -  🤖 AI Engineer Qualification Certificate (Japan Deep Learning Association, Certified by Exam 94% ✅)  
 -  📊 DX Qualification Certificate (Digital Literacy Council, Di-Lite, Japan, Certified by Exam ✅)  
--  🌍 Generative AI Literacy Assessment Competition By GUGA, Japan: Top Ranked out of 2,221 (Certified by Exam ✅) 
--  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
--  🔑 Generative AI Passport Exam (GUGA, Japan, Certified by Exam 92% ✅)
--  🏅 DX Professional Level Certified (DSS-Based, METI & IPA Framework, DX Examination, Japan, Certified by Exam (Score 975/1,000) ✅)
--  🏆 Advanced Level Data Science Mathematics Strategist Certified with Triple Star (The Mathematics Certification Institute of Japan, Certified by Exam ✅ 95%)
--  👑 Highest Achievement in AI Skills Certifications with Full Crowns (Japan AI Skill Certification Association, Certified by Exam ✅)
+-  🌍 Generative AI Literacy Assessment Competition By GUGA, Japan: Top Ranked out of 2,221 (Certified by Exam ✅)
 -  🏛️ Oracle Cloud Infrastructure Certified Architect (Oracle, Certified by Exam ✅)
 -  🤖 Oracle Cloud Infrastructure Certified AI Foundations Associate (Oracle, Certified by Exam ✅)
 -  ☁️ Agentic AI Certified Associate (Oracle, Certified by Exam ✅)
 -  🗄️ Oracle Cloud Infrastructure Certified Associate (Oracle, Certified by Exam ✅)
 -  🏢 Oracle Data Center Operations Certified Associate (Oracle, Certified by Exam ✅)
 -  ☁️ Oracle AI Database Certified Associate (Oracle, Certified by Exam ✅)
--  🧩 Oracle Fusion AI Agent Studio Certified Associate (Oracle, Certified by Exam ✅)
--  🧠 Integrate Model Context Protocol Tools with Agents in Microsoft Foundry (Microsoft, Certified by Exam ✅)
--  🤖 Developing Agents in Microsoft Foundry (Microsoft, Certified by Exam ✅)
--  📊 Generate Reports with AI Research Agents (Microsoft, Certified by Exam ✅)  
+-  🧩 Oracle Fusion AI Agent Studio Certified Associate (Oracle, Certified by Exam ✅) 
+-  🧠 Generative AI Qualification Certificate (Japan Deep Learning Association, Certified by Exam ✅)  
+-  🔑 Generative AI Passport Exam (GUGA, Japan, Certified by Exam 92% ✅)
+-  🏅 DX Professional Level Certified (DSS-Based, METI & IPA Framework, DX Examination, Japan, Certified by Exam (Score 975/1,000) ✅)
+-  🏆 Advanced Level Data Science Mathematics Strategist Certified with Triple Star (The Mathematics Certification Institute of Japan, Certified by Exam ✅ 95%)
+-  👑 Highest Achievement in AI Skills Certifications with Full Crowns (Japan AI Skill Certification Association, Certified by Exam ✅)
+-  🔑 5+ Google Certifications in Education, Analytics, Data, and AI (Google, Certified by Exam ✅)
+-  🤖 Develop a Generative AI Chat App Using the Microsoft Foundry SDK (Microsoft, Certified by Exam ✅)
+-  💻 Accelerate AI-assisted development by using GitHub Copilot (Microsoft, Certified by Exam ✅)
+-  🛠️ Develop an agent with integrated tools (Microsoft, Certified by Exam ✅)
+-  🔗 Integrate model context protocol tools with agents in Microsoft Foundry (Microsoft, Certified by Exam ✅)
+-  🚀 Developing agents in Microsoft Foundry (Microsoft, Certified by Exam ✅)
+-  📝 Generate reports with AI research agents (Microsoft, Certified by Exam ✅) 
 -  🏗️ Professional Mechanical Design (SolidWorks, Certified by Exam ✅)  
 -  🌐 English: Business Level Proficiency (TOEIC, ETS, Certified by Exam ✅)  
 -  🗾 Japanese: Business Level Proficiency (JLPT-N2, Certified by Exam ✅)  

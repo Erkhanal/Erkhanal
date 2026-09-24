@@ -75,22 +75,6 @@
 
 - Microsoft Leadership and Innovation Professional Certificate, **Microsoft**
 
-<h3 align="left">🙋‍♂️ A Little About Myself :</h3>
-
-- 🔭 I’m currently working in **Tokyo, Japan**, focused on technology and innovation.
-
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**.
-
-- 👯 I’m looking to collaborate on **impactful ML/AI research and open-source projects**.
-
-- 👨‍💻 All of my projects are available on my [Github](https://github.com/Erkhanal?tab=repositories).
-
-- 💬 Feel free to reach out for **meaningful discussions in tech, research, or ideas worth building**.
-
-- 📫 Reach me at: [Website](https://erkhanal.github.io/portfolio/).
-  
-- ⚡ Fun fact: **I think I’m curious - I believe curiosity is the first step to discovery.** 
-
 <h3 align="left">Verified Digital Credential:</h3>
 
 <a href="https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/cGpUd0ttTTlVZnM2VUJWTDMvY2FqZz09">
@@ -139,6 +123,22 @@
 <a href="https://openbadgefactory.com/obv3/credentials/e5f1ae6d1d354d8d4f971960e543d21cb6674cd2.html">
   <img src="https://raw.githubusercontent.com/Erkhanal/portfolio/master/assets/img/dxnex.png" width="200" height="200" alt="DX Next Exam" title="Click for more details">
 </a>
+
+<h3 align="left">🙋‍♂️ A Little About Myself :</h3>
+
+- 🔭 I’m currently working in **Tokyo, Japan**, focused on technology and innovation.
+
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**.
+
+- 👯 I’m looking to collaborate on **impactful ML/AI research and open-source projects**.
+
+- 👨‍💻 All of my projects are available on my [Github](https://github.com/Erkhanal?tab=repositories).
+
+- 💬 Feel free to reach out for **meaningful discussions in tech, research, or ideas worth building**.
+
+- 📫 Reach me at: [Website](https://erkhanal.github.io/portfolio/).
+  
+- ⚡ Fun fact: **I think I’m curious - I believe curiosity is the first step to discovery.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
